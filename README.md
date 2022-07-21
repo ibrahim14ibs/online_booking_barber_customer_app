@@ -1,4 +1,5 @@
-# barber booking app
+# online_booking_barber_customer_app
+
 
 A new Flutter project.
 
